@@ -8,7 +8,7 @@ const config = {
     './lib/components/index.js'
   ],
   output: {
-    path: path.resolve(__dirname, 'dist'),
+    path: path.resolve(__dirname, 'public'),
     filename: 'bundle.js'
   },
   module: {
@@ -63,7 +63,7 @@ const config = {
     }
   },
   devServer: {
-    contentBase: './dist'
+    contentBase: './public'
   }
 };
 
