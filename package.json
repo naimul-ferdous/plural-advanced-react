@@ -15,7 +15,7 @@
     "build-prod": "webpack -p --mode production",
     "start": "npm run dev",
     "test": "jest --watch",
-    "dev": "nodemon --exec babel-node lib/server.js",
+    "dev": "set NODE_PATH=./lib&& nodemon --exec babel-node lib/server.js",
     "webpack": "webpack -wd"
   },
   "dependencies": {
