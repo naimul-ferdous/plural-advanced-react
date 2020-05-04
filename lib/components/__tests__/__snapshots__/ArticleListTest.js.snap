@@ -2,14 +2,14 @@
 
 exports[`ArticleList Renders correctly 1`] = `
 <div>
-  <Article
+  <ArticleContainer
     article={
       Object {
         "id": "a",
       }
     }
   />
-  <Article
+  <ArticleContainer
     article={
       Object {
         "id": "b",
