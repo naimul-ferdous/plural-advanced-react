@@ -10,27 +10,27 @@ First install dependencies:
 npm install
 ```
 
-To run in hot module reloading mode:
+To run:
 
 ```sh
 npm start
 ```
 
-To create a production build:
+To create bundle.js:
 
 ```sh
-npm run build-prod
+npm run webpack
 ```
 
-To create a development build:
+To test:
 
 ```sh
-npm run build-dev
+npm run test
 ```
 
 ## Running
 
-Open the file `dist/index.html` in your browser
+Open the url `https://localhost:8080` in your browser
 
 ## Credits
 
