@@ -1,6 +1,6 @@
-# empty-project
+# advanced-react
 
-Empty project.
+Advanced React.
 
 ## Building and running on localhost
 
