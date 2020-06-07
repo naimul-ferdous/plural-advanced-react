@@ -1,0 +1,21 @@
+{
+  "files.autoSave": "afterDelay",
+  "window.zoomLevel": 1,
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  "terminal.integrated.shellArgs.windows": [
+    "/k",
+    "C:\\cmder\\vendor\\init.bat"
+  ],
+  "workbench.colorTheme": "Monokai",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "400",
+  
+  
+}
